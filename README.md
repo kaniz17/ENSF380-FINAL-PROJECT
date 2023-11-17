@@ -1,5 +1,6 @@
-# ENSF380-FINAL-PROJECT
-# 380-Final Project
+# Wildlife-Rescue-Task-Scheduler
+
+
 
 This is the repo that houses the project for the ENSF-380 final project that creates a application for the
 Wildlife Rescue that schedules tasks based on a SQLDatabase and inferred tasks based on the amimals kept
